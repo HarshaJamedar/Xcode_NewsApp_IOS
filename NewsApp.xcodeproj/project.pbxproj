@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A76B80032B91A146008F6E72 /* APIkeyCaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76B80022B91A146008F6E72 /* APIkeyCaller.swift */; };
+		A76B80052B92CCCD008F6E72 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76B80042B92CCCD008F6E72 /* NewsTableViewCell.swift */; };
 		A7B2DBD32B9187E900D25638 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B2DBD22B9187E900D25638 /* AppDelegate.swift */; };
 		A7B2DBD52B9187E900D25638 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B2DBD42B9187E900D25638 /* SceneDelegate.swift */; };
 		A7B2DBD72B9187E900D25638 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B2DBD62B9187E900D25638 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A76B80022B91A146008F6E72 /* APIkeyCaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIkeyCaller.swift; sourceTree = "<group>"; };
+		A76B80042B92CCCD008F6E72 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 		A7B2DBCF2B9187E900D25638 /* NewsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7B2DBD22B9187E900D25638 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7B2DBD42B9187E900D25638 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				A7B2DBDB2B9187EB00D25638 /* Assets.xcassets */,
 				A7B2DBDD2B9187EB00D25638 /* LaunchScreen.storyboard */,
 				A7B2DBE02B9187EB00D25638 /* Info.plist */,
+				A76B80022B91A146008F6E72 /* APIkeyCaller.swift */,
+				A76B80042B92CCCD008F6E72 /* NewsTableViewCell.swift */,
 			);
 			path = NewsApp;
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			files = (
 				A7B2DBD72B9187E900D25638 /* ViewController.swift in Sources */,
 				A7B2DBD32B9187E900D25638 /* AppDelegate.swift in Sources */,
+				A76B80052B92CCCD008F6E72 /* NewsTableViewCell.swift in Sources */,
 				A7B2DBD52B9187E900D25638 /* SceneDelegate.swift in Sources */,
+				A76B80032B91A146008F6E72 /* APIkeyCaller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
